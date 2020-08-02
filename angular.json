@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Typing-Challenge"
+    }
+  },
+  "defaultProject": "Typing-Challenge",
+  "cli": {
+    "analytics": "e993c896-f68c-4724-bbfd-a48f872e6bcc"
+  }
 }
